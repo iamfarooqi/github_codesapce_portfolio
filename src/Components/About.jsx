@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/background-svg.svg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Computer Systems Engineer with 2 years of experience in MERN Stack development and a growing passion for blockchain technology. Proven track record in delivering efficient, user-centric solutions and eager to explore innovative applications in decentralization. Looking to connect with like-minded professionals and engage in challenging projects that leverage my full-stack expertise for technological advancement.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Computer Systems Engineer with 2 years of experience in MERN Stack development and a growing passion for blockchain technology. Proven track record in delivering efficient, user-centric solutions and eager to explore innovative applications in decentralization. Looking to connect with like-minded professionals and engage in challenging projects that leverage my full-stack expertise for technological advancement.";
 
 const About = () => {
   return (
